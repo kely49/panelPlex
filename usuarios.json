@@ -1,0 +1,109 @@
+{
+  "login": [
+    {
+      "session": [
+        {
+          "kely49": "1234"
+        }
+      ],
+      "servidores": [
+        {
+          "nombre_server": "UNO NUEVO",
+          "activo": "0",
+          "urlPlex": "http://192.168.1.2:32400",
+          "apiPlex": "tSiiwBwrz8mPByT4gKR5",
+          "urlTautulli": "http://192.168.1.2:8181",
+          "apiTautulli": "wP6dWbKUjBR7F0ncFFkiqz1UxMzqgIVO",
+          "usuarios": [
+            {
+              "email": "primeroUNO@sdgsdgsdg.com",
+              "contrasena": "B04qLXz-j1",
+              "expiracion": "01/02/2024",
+              "pantallas": "5",
+              "codigoColor": "0",
+              "telegram": "-",
+              "discord": "-",
+              "whatsapp": "3242424"
+            },
+            {
+              "email": "asdfasdsa@safasfasfsa.com",
+              "contrasena": "fx.5pTufA1",
+              "expiracion": "29/02/2024",
+              "pantallas": "1",
+              "codigoColor": "0",
+              "telegram": "-",
+              "discord": "-",
+              "whatsapp": "-"
+            }
+          ]
+        },
+        {
+          "nombre_server": "DOS",
+          "activo": "1",
+          "urlPlex": "http://http://79.116.29.47:32400",
+          "apiPlex": "FzCuDK9p-6VRypohAp11",
+          "urlTautulli": "http://http://79.116.29.47:8181",
+          "apiTautulli": "wP6dWbKUjBR7F0ncFFkiqz1UxMzqgIVO",
+          "usuarios": [
+            {
+              "email": "asfasfas@asdfafasfsaf.com",
+              "contrasena": "XuU2CI-kdj",
+              "expiracion": "28/02/2024",
+              "pantallas": "3",
+              "codigoColor": "0",
+              "telegram": "-",
+              "discord": "-",
+              "whatsapp": "-"
+            },
+            {
+              "email": "asdads@sadasd.com",
+              "contrasena": "FnV8qqlIJ.",
+              "expiracion": "07/03/2024",
+              "pantallas": "1",
+              "codigoColor": "0",
+              "telegram": "-",
+              "discord": "-",
+              "whatsapp": "-"
+            },
+            {
+              "email": "awdawdaw@sdfsfsdfs.com",
+              "contrasena": "-1PA6l0qMf",
+              "expiracion": "07/03/2024",
+              "pantallas": "2",
+              "codigoColor": "0",
+              "telegram": "-",
+              "discord": "-",
+              "whatsapp": "-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "session": [
+        {
+          "test": "2223"
+        }
+      ],
+      "servidores": [
+        {
+          "nombre_server": "ff",
+          "activo": "0",
+          "urlPlex": "fff",
+          "apiPlex": "fff",
+          "urlTautulli": "fff",
+          "apiTautulli": "fff",
+          "usuarios": []
+        }
+      ]
+    },
+    {
+      "session": [
+        {
+          "nuevo": "1234"
+        }
+      ],
+      "servidores": []
+    }
+  ]
+}
